@@ -1,5 +1,5 @@
 #######
-### Prerequisites####
+### Prerequisites######
 - JDK 1.8 or laterr
 - Maven 3 or later
 - MySQL 5.6 or later
